@@ -1,2 +1,4 @@
-# moneyball_football_manager
-This project aims to showcase practice of data science techniques to recruit players in Sports Interactive's football simulation game, Football Manager
+# Moneyball in *Football Manager 2023*
+### This project aims to showcase practice of data science techniques to recruit players in Sports Interactive's football simulation game, *Football Manager*
+
+*Football Manager* is a series of football management simulation video games developed by Sports Interactive that many football nerds, including myself, may be familiar with. It is the most widely played football management simulation game in the world, amassing over 7 million players in its latest installment, *Football Manager 2024*. To many, it is a game played almost religiously where strong one-sided relationships are able to be made between the player and their Colombian newgen wonderkid who leads them to promotion. Jokes aside, it is also a tool used by top teams to scout players. In 2008, Everton F.C. signed a deal with the developer Sports Interactive.....
